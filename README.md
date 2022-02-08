@@ -9,7 +9,6 @@
 </p>
 <div align="center">
     <img alt="Og" src="client/public/og.png">
-    ![og](client/public/og.png)
 </div>
 
 
