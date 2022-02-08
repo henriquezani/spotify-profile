@@ -1,3 +1,17 @@
+<h1 align="center">
+  Spotift Profile
+</h1>
+<h2 align="center">
+    https://spotify-profile-henriquezani.herokuapp.com/
+</h2>
+<div align="center">
+    <img alt="Og" src="public/og.png">
+</div>
+<p align="center">
+  Web app for visualizing personalized Spotify data and hosted on <a href="https://www.heroku.com/" target="_blank">Heroku</a>
+</p>
+
+
 ## Local Installation & Set Up
 
 1. Register a Spotify App in your [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/) and add `http://localhost:8888/callback` as a Redirect URI in the app settings
