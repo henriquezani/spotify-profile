@@ -4,12 +4,14 @@
 <h2 align="center">
     https://spotify-profile-henriquezani.herokuapp.com/
 </h2>
-<div align="center">
-    <img alt="Og" src="public/og.png">
-</div>
 <p align="center">
   Web app for visualizing personalized Spotify data and hosted on <a href="https://www.heroku.com/" target="_blank">Heroku</a>
 </p>
+<div align="center">
+    <img alt="Og" src="client/public/og.png">
+    ![og](client/public/og.png)
+</div>
+
 
 
 ## Local Installation & Set Up
